@@ -1,0 +1,1490 @@
+
+   WEB APPLICATION SECURITY :
+-----------------------------------------------------------------------------------
+
+1. * What Is Application Security ?
+2. * Why Application Security is Important ?
+3. * Types of Application Security :
+4. * Mobile Application Security :
+5. * Web Application Security :
+6. * What are Application Security Controls :
+7. * What is Application Security Testing :
+8. * What is Mobile Device Management ?
+     + Why Mobile Device Management is Important ?
+     + Mobile Device Management Features :
+     + How Mobile Device Management Works :
+     + VMware Mobile Device Management Tools :
+     + Benefits of VMware Workspace ONE Mobile Device Management :
+
+9. * Mobile Application Security :
+     + Mobile Management Software
+     + Mobile Behavioral Analysis
+     + Encryption
+     + Strong Authentification 
+     + Limited Permissions
+
+10. * Web Application Security :
+      + Penetration Testing 
+      + Web Application Firewall (WAF)
+      + DDoS Protection
+      + Strong Authentication
+      + Encryption
+
+(A) Web Application Security Fundamnetals
+(B) Basics of Web Security and Remedies of Cyber Attacks 
+(C) Securing the Web Server and Other Components
+(D) Types of Security Attacks
+(E) Web Security Vulnerabilites
+(F) Web Application Firewall
+(G) Secure Network Firewall
+
+___________________________________________________________________________________
+
+1) <<<<<<<<< WHAT IS APPLICATION SECURITY ? >>>>>>>>>>
+
+________________________________________________
+ What Is Application Security ?                 |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* What Is Application Security ? 
+                                                                                        
+2) Definition of Application Security ? 
+---------------------------------------
+*
+ 
+3) What is Application Security About ?
+---------------------------------------
+*
+*
+
+4) What does Application Security Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of Application Security :
+------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Application Security :
+---------------------------------------------------
+*
+*
+*  
+
+7) Examples of Application Security :
+-------------------------------------
+*
+*
+
+______________________________________________________________________________________
+______________________________________________________________________________________
+
+2) <<<<<<<<< WHY APPLICATION SECURITY IS IMPORTANT ? >>>>>>>>>>>>        
+__________________________________________________
+ Why Application Security is Important ?          |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Why Application Security is Important ?
+                                                                                        
+2) Definition of Application Security is Important :
+----------------------------------------------------
+*
+ 
+3) What is Application Security is Important About ?
+----------------------------------------------------
+*
+*
+
+4) What does Application Security is Important Do ?
+---------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Application Security is Important :
+-------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Application Security is Important :
+----------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Application Security is Important :
+--------------------------------------------------
+*
+* 
+
+________________________________________________________________________________
+________________________________________________________________________________
+
+3) <<<<<<<< TYPES of APPLICATION SECURITY >>>>>>>>
+
+________________________________________________________________________
+ Types of Application Security                                          |
+                                                                        |                  
+________________________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Types of Application Security
+                                                                                        
+2) Definition of Types of Application Security ?
+------------------------------------------------
+*
+ 
+3) What is Types of Application Security About ?
+------------------------------------------------
+*
+*
+
+4) What does Types of Application Security Do ?
+-----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Types of Application Security :
+---------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Types of Application Security :
+------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Types of Application Security :
+----------------------------------------------
+*
+* 
+
+______________________________________________________________________________________
+______________________________________________________________________________________
+
+4) <<<<<<<< MOBILE APPLICATION SECURITY >>>>>>>>
+
+______________________________________________________________________________
+ Mobile Application Security                                                  |
+                                                                              |                  
+______________________________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Mobile Application Security
+                                                                                        
+2) Definition of Mobile Application Security ?
+----------------------------------------------
+*
+ 
+3) What is Mobile Application Security About ?
+----------------------------------------------
+*
+*
+
+4) What do Mobile Application Security Do ?
+-------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Mobile Application Security :
+-------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Mobile Application Security :
+----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Mobile Application Security :
+--------------------------------------------
+*
+*   
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+
+5) <<<<<<< WEB APPLICATION SECURITY >>>>>>>  
+__________________________________________________
+ Web Application Security                         |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Web Application Security
+                                                                                        
+2) Definition of Web Application Security ?
+-------------------------------------------
+*
+ 
+3) What is Web Application Security About ?
+-------------------------------------------
+*
+
+4) What do Web Application Security Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Web Application Security :
+----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Web Application Security :
+-------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Web Application Security :
+-----------------------------------------
+*
+*
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+
+6) <<<<<<<<< WHAT are APPLICATION SECURITY CONTROLS ? >>>>>>>>>>
+
+________________________________________________
+ What are Application Security Controls ?       |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* What are Application Security Controls ? 
+                                                                                        
+2) Definition of What are Application Security Controls ? 
+---------------------------------------------------------
+*
+ 
+3) What is Application Security Controls About ?
+------------------------------------------------
+*
+*
+
+4) What does Application Security Controls Do ?
+-----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Application Security Controls :
+---------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Application Security Controls :
+------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Application Security Controls :
+----------------------------------------------
+*
+*
+
+______________________________________________________________________________________
+______________________________________________________________________________________
+
+7) <<<<<<<<< WHAT is APPLICATION SECURITY TESTING ? >>>>>>>>>>>>        
+__________________________________________________
+ What is Application Security Testing ?           |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* What is Application Security Testing ?
+                                                                                        
+2) Definition of Application Security Testing :
+-----------------------------------------------
+*
+ 
+3) What is Application Security Testing About ?
+-----------------------------------------------
+*
+*
+
+4) What does Application Security Testing Do ?
+----------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Application Security Testing :
+--------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Application Security Testing :
+-----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Application Security Testing :
+---------------------------------------------
+*
+* 
+
+________________________________________________________________________________
+________________________________________________________________________________
+
+8) <<<<<<<< WHAT is MOBILE DEVICE MANAGEMENT ? >>>>>>>>
+
+  + Why Mobile Device Management is Important ?
+  + Mobile Device Management Features :
+  + How Mobile Device Management Works :
+  + VMware Mobile Device Management Tools :
+  + Benefits of VMware Workspace ONE Mobile Device Management :
+________________________________________________________________________
+ What is Mobile Device Management ?                                     |
+                                                                        |             
+________________________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* What is Mobile Device Management ?
+                                                                                        
+2) Definition of Mobile Device Management ?
+-------------------------------------------
+*
+ 
+3) What is Mobile Device Management About ?
+-------------------------------------------
+*
+*
+
+4) What does Mobile Device Management Do ?
+------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Mobile Device Management :
+---------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Mobile Device Management :
+-------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Mobile Device Management :
+-----------------------------------------
+*
+* 
+
+____________________________________________________________________________________
+
+\\\\ Why Mobile Device Management is Important ? ////
+________________________________________________
+ Why Mobile Device Management is Important ?    |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Why Mobile Device Management is Important ? 
+                                                                                        
+2) Definition of Why Mobile Device Management is Important ?
+------------------------------------------------------------
+*
+ 
+3) What is Mobile Device Management is Important About ?
+--------------------------------------------------------
+*
+*
+
+4) What does Mobile Device Management is Important Do ?
+--------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Mobile Device Management is Important :
+-----------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Mobile Device Management is Important :
+--------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Mobile Device Management is Important :
+------------------------------------------------------
+*
+*
+__________________________________________________________________________________
+
+
+\\\\ Mobile Device Management Features ////
+________________________________________________
+ Mobile Device Management Features              |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Mobile Device Management Features 
+                                                                                        
+2) Definition of Mobile Device Management Features ?
+----------------------------------------------------
+*
+ 
+3) What is Mobile Device Management Features About ?
+----------------------------------------------------
+*
+*
+
+4) What does Mobile Device Management Features Do ?
+---------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Mobile Device Management Features :
+-------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Mobile Device Management Features :
+----------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Mobile Device Management Features :
+--------------------------------------------------
+*
+*
+_________________________________________________________________________________
+
+
+\\\\ How Mobile Device Management Works  ////
+________________________________________________
+ How Mobile Device Management Works             |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* How Mobile Device Management Works  
+                                                                                        
+2) Definition of How Mobile Device Management Works ?
+-----------------------------------------------------
+*
+ 
+3) What is How Mobile Device Management Works About ?
+-----------------------------------------------------
+*
+*
+
+4) What does How Mobile Device Management Works Do ?
+----------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of How Mobile Device Management Works :
+--------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of How Mobile Device Management Works :
+-----------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of How Mobile Device Management Works :
+---------------------------------------------------
+*
+*
+__________________________________________________________________________________
+
+
+\\\\ VMware Mobile Device Management Tools ////
+________________________________________________
+ VMware Mobile Device Management Tools          |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* VMware Mobile Device Management Tools 
+                                                                                        
+2) Definition of VMware Mobile Device Management Tools ?
+--------------------------------------------------------
+*
+ 
+3) What is VMware Mobile Device Management Tools About ?
+--------------------------------------------------------
+*
+*
+
+4) What does VMware Mobile Device Management Tools Do ?
+-------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of VMware Mobile Device Management Tools :
+-----------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of VMware Mobile Device Management Tools :
+--------------------------------------------------------------------
+*
+*
+*
+
+7) Examples of VMware Mobile Device Management Tools :
+------------------------------------------------------
+*
+*
+___________________________________________________________________________________
+
+\\\\ Benefits of VMware Workspace ONE Mobile Device Management ////
+___________________________________________________________
+ Benefits of VMware Workspace ONE Mobile Device Management |
+                                                           |                  
+___________________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Benefits of VMware Workspace ONE Mobile Device Management 
+                                                                                        
+2) Definition of Benefits of VMware Workspace ONE Mobile Device Management ?
+----------------------------------------------------------------------------
+*
+ 
+3) What is Benefits of VMware Workspace ONE Mobile Device Management About ?
+----------------------------------------------------------------------------
+*
+*
+
+4) What does Benefits of VMware Workspace ONE Mobile Device Management Do ?
+---------------------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of VMware Workspace ONE Mobile Device Management :
+-------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of VMware Workspace ONE Mobile Device Management :
+----------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of VMware Workspace ONE Mobile Device Management :
+--------------------------------------------------------------
+*
+*
+_______________________________________________________________________________
+____________________________________________________________________________________
+
+9) <<<<<<<< MOBILE APPLICATION SECURITY >>>>>>>>
+
+   + Mobile Management Software
+   + Mobile Behavioral Analysis
+   + Encryption
+   + Strong Authentification 
+   + Limited Permissions
+______________________________________________________________________________
+ Mobile Application Security                                                  |
+                                                                              | 
+______________________________________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Mobile Application Security
+                                                                                        
+2) Definition of Mobile Application Security ?
+----------------------------------------------
+*
+ 
+3) What is Mobile Application Security About ?
+----------------------------------------------
+*
+*
+
+4) What do Mobile Application Security Do ?
+-------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Mobile Application Security :
+-------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Mobile Application Security :
+----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Mobile Application Security :
+--------------------------------------------
+*
+*   
+_____________________________________________________________________________________
+
+\\\\ Mobile Management Software ////
+________________________________________________
+ Mobile Management Software                     |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Mobile Management Software 
+                                                                                        
+2) Definition of Mobile Management Software ?
+---------------------------------------------
+*
+ 
+3) What is Mobile Management Software About ?
+---------------------------------------------
+*
+*
+
+4) What does Mobile Management Software Do ?
+--------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Mobile Management Software :
+------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Mobile Management Software :
+---------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Mobile Management Software :
+-------------------------------------------
+*
+*
+__________________________________________________________________________________
+
+
+\\\\ Mobile Behavioral Analysis ////
+________________________________________________
+ Mobile Behavioral Analysis                     |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Mobile Behavioral Analysis 
+                                                                                        
+2) Definition of Mobile Behavioral Analysis ?
+---------------------------------------------
+*
+ 
+3) What is Mobile Behavioral Analysis About ?
+---------------------------------------------
+*
+*
+
+4) What does Mobile Behavioral Analysis Do ?
+--------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Mobile Behavioral Analysis :
+------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Mobile Behavioral Analysis :
+---------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Mobile Behavioral Analysis :
+-------------------------------------------
+*
+*
+_________________________________________________________________________________
+
+
+\\\\ Encryption ////
+________________________________________________
+ Encryption                                     |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Encryption 
+                                                                                        
+2) Definition of Encryption ?
+-----------------------------
+*
+ 
+3) What is Encryption About ?
+-----------------------------
+*
+*
+
+4) What does Encryption Do ?
+----------------------------
+*
+*
+
+5) Advantages/Benefits of Encryption :
+--------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Encryption :
+-----------------------------------------
+*
+*
+*  
+
+7) Examples of Encryption :
+---------------------------
+*
+*
+__________________________________________________________________________________
+
+
+\\\\ Strong Authentification ////
+________________________________________________
+ Strong Authentification                        |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Strong Authentification 
+                                                                                        
+2) Definition of Strong Authentification ?
+------------------------------------------
+*
+ 
+3) What is Strong Authentification About ?
+------------------------------------------
+*
+*
+
+4) What does Strong Authentification Do ?
+-----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Strong Authentification :
+---------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Strong Authentification :
+------------------------------------------------------
+*
+*
+*
+
+7) Examples of Strong Authentification :
+----------------------------------------
+*
+*
+___________________________________________________________________________________
+
+\\\\ Limited Permissions ////
+________________________________________________
+ Limited Permissions                            |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Limited Permissions 
+                                                                                        
+2) Definition of Limited Permissions ?
+--------------------------------------
+*
+ 
+3) What is Limited Permissions About ?
+--------------------------------------
+*
+*
+
+4) What does Limited Permissions Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Limited Permissions :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Limited Permissions :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Limited Permissions :
+------------------------------------
+*
+*
+_________________________________________________________________________________
+_________________________________________________________________________________
+
+10) <<<<<<< WEB APPLICATION SECURITY >>>>>>> 
+
+   + Penetration Testing 
+   + Web Application Firewall (WAF)
+   + DDoS Protection
+   + Strong Authentication
+   + Encryption 
+__________________________________________________
+ Web Application Security ?                       |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Web Application Security
+                                                                                        
+2) Definition of Web Application Security ?
+-------------------------------------------
+*
+ 
+3) What is Web Application Security About ?
+-------------------------------------------
+*
+
+4) What do Web Application Security Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Web Application Security :
+----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Web Application Security :
+-------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Web Application Security :
+-----------------------------------------
+*
+*
+_____________________________________________________________________________________
+
+\\\\ Penetration Testing ////
+________________________________________________
+ Penetration Testing                            |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Penetration Testing 
+                                                                                        
+2) Definition of Penetration Testing ?
+--------------------------------------
+*
+ 
+3) What is Penetration Testing About ?
+--------------------------------------
+*
+*
+
+4) What does Penetration Testing Do ?
+-------------------------------------
+*
+*
+
+5) Advantages/Benefits of Penetration Testing :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Penetration Testing :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Penetration Testing :
+------------------------------------
+*
+*
+__________________________________________________________________________________
+
+
+\\\\ Web Application Firewall (WAF) ////
+________________________________________________
+ Web Application Firewall (WAF)                 |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Web Application Firewall (WAF) 
+                                                                                        
+2) Definition of Web Application Firewall (WAF) ?
+-------------------------------------------------
+*
+ 
+3) What is Web Application Firewall (WAF) About ?
+-------------------------------------------------
+*
+*
+
+4) What does Web Application Firewall (WAF) Do ?
+------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Web Application Firewall (WAF) :
+----------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Web Application Firewall (WAF) :
+-------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Web Application Firewall (WAF) :
+-----------------------------------------------
+*
+*
+_________________________________________________________________________________
+
+
+\\\\ DDoS Protection ////
+________________________________________________
+ DDoS Protection                                |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* DDoS Protection 
+                                                                                        
+2) Definition of DDoS Protection ?
+----------------------------------
+*
+ 
+3) What is DDoS Protection About ?
+----------------------------------
+*
+*
+
+4) What does DDoS Protection Do ?
+---------------------------------
+*
+*
+
+5) Advantages/Benefits of DDoS Protection :
+-------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of DDoS Protection :
+----------------------------------------------
+*
+*
+*  
+
+7) Examples of DDoS Protection :
+--------------------------------
+*
+*
+__________________________________________________________________________________
+
+
+\\\\ Strong Authentication ////
+________________________________________________
+ Strong Authentication                          |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Strong Authentication 
+                                                                                        
+2) Definition of Strong Authentication ?
+----------------------------------------
+*
+ 
+3) What is Strong Authentication About ?
+----------------------------------------
+*
+*
+
+4) What does Strong Authentication Do ?
+---------------------------------------
+*
+*
+
+5) Advantages/Benefits of Strong Authentication :
+-------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Strong Authentication :
+----------------------------------------------------
+*
+*
+*
+
+7) Examples of Strong Authentication :
+--------------------------------------
+*
+*
+___________________________________________________________________________________
+
+\\\\ Encryption ////
+________________________________________________
+ Encryption                                     |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Encryption 
+                                                                                        
+2) Definition of Encryption ?
+-----------------------------
+* 
+ 
+3) What is Encryption About ?
+-----------------------------
+*
+*
+
+4) What does Encryption Do ?
+----------------------------
+*
+*
+
+5) Advantages/Benefits of Encryption :
+--------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Encryption :
+-----------------------------------------
+*
+*
+*  
+
+7) Examples of Encryption :
+---------------------------
+*
+*
+___________________________________________________________________________________
+___________________________________________________________________________________
+
+(A) <<<<<<<<< Web Application Security Fundamentals >>>>>>>>>>
+
+________________________________________________
+ Web Application Security Fundamentals          |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Web Application Security Fundamentals 
+                                                                                        
+2) Definition of Web Application Security Fundamentals ? 
+--------------------------------------------------------
+*
+ 
+3) What is Web Application Security Fundamentals About ?
+--------------------------------------------------------
+*
+*
+
+4) What does Web Application Security Fundamentals Do ?
+-------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Web Application Security Fundamentals :
+-----------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Web Application Security Fundamentals :
+--------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Web Application Security Fundamentals :
+------------------------------------------------------
+*
+*
+
+______________________________________________________________________________________
+______________________________________________________________________________________
+
+(B) <<<<<<<<< Basics of Web Security and Remedies of Cyber Attacks >>>>>>>>>>>>        
+______________________________________________________
+ Basics of Web Security and Remedies of Cyber Attacks |
+                                                      |                  
+______________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Basics of Web Security and Remedies of Cyber Attacks
+                                                                                        
+2) Definition of Basics of Web Security and Remedies of Cyber Attacks :
+-----------------------------------------------------------------------
+*
+ 
+3) What is Basics of Web Security and Remedies of Cyber Attacks About ?
+-----------------------------------------------------------------------
+*
+*
+
+4) What does Basics of Web Security and Remedies of Cyber Attacks Do ?
+----------------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Basics of Web Security and Remedies of Cyber Attacks :
+--------------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Basics of Web Security and Remedies of Cyber Attacks :
+-----------------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Application Security is Important :
+--------------------------------------------------
+*
+* 
+
+________________________________________________________________________________
+________________________________________________________________________________
+
+(C) <<<<<<<< Securing the Web Server and Other Components >>>>>>>>
+
+____________________________________________
+ Securing the Web Server and Other Component|                  
+____________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Securing the Web Server and Other Components
+                                                                                        
+2) Definition of Securing the Web Server and Other Components ?
+---------------------------------------------------------------
+*
+ 
+3) What is Securing the Web Server and Other Components About ?
+---------------------------------------------------------------
+*
+*
+
+4) What does Securing the Web Server and Other Components Do ?
+--------------------------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Securing the Web Server and Other Components :
+------------------------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Securing the Web Server and Other Components :
+---------------------------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Securing the Web Server and Other Components :
+-------------------------------------------------------------
+*
+* 
+
+______________________________________________________________________________________
+______________________________________________________________________________________
+
+(D) <<<<<<<< Types of Security Attacks >>>>>>>>
+
+_______________________________________
+ Types of Security Attacks             |
+                                       |                  
+_______________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Types of Security Attacks
+                                                                                        
+2) Definition of Types of Security Attacks ?
+--------------------------------------------
+*
+ 
+3) What is Types of Security Attacks About ?
+--------------------------------------------
+*
+*
+
+4) What do Types of Security Attacks Do ?
+-----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Types of Security Attacks :
+-----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Types of Security Attacks :
+--------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Types of Security Attacks :
+------------------------------------------
+*
+*   
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+
+(E) <<<<<<< Web Security Vulnerabilites >>>>>>>  
+__________________________________________________
+ Web Security Vulnerabilites                      |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Web Security Vulnerabilites
+                                                                                        
+2) Definition of Web Security Vulnerabilites ?
+----------------------------------------------
+*
+ 
+3) What is Web Security Vulnerabilites About ?
+----------------------------------------------
+*
+
+4) What do Web Security Vulnerabilites Do ?
+-------------------------------------------
+*
+*
+
+5) Advantages/Benefits of Web Security Vulnerabilites :
+-------------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Web Security Vulnerabilites :
+----------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Web Security Vulnerabilites :
+--------------------------------------------
+*
+*
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+
+(F) <<<<<<<< Web Application Firewall >>>>>>>>
+
+_______________________________________
+ Web Application Firewall              |
+                                       |                  
+_______________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Web Application Firewall
+                                                                                        
+2) Definition of Web Application Firewall ?
+-------------------------------------------
+*
+ 
+3) What is Web Application Firewall About ?
+-------------------------------------------
+*
+*
+
+4) What do Web Application Firewall Do ?
+----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Web Application Firewall :
+----------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Web Application Firewall :
+-------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Types of Web Application Firewall :
+--------------------------------------------------
+*
+*   
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+
+(G) <<<<<<< Secure Network Firewall >>>>>>>  
+__________________________________________________
+ Secure Network Firewall                          |
+                                                  |                  
+__________________________________________________|
+            |
+            |
+1) What's the Heading ?
+-----------------------
+* Secure Network Firewall
+                                                                                        
+2) Definition of Secure Network Firewall ?
+------------------------------------------
+*
+ 
+3) What is Secure Network Firewall About ?
+------------------------------------------
+*
+
+4) What do Secure Network Firewall Do ?
+---------------------------------------
+*
+*
+
+5) Advantages/Benefits of Secure Network Firewall :
+---------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Secure Network Firewall :
+------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Secure Network Firewall :
+----------------------------------------
+*
+*
+_____________________________________________________________________________________

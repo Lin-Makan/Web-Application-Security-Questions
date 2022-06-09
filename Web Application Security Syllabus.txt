@@ -1,0 +1,39 @@
+
+WEB APPLICATION SECURITY SYLLABUS :
+------------------------------------------------------------------------------------
+
+1. * What Is Application Security ?
+2. * Why Application Security is Important ?
+3. * Types of Application Security :
+4. * Mobile Application Security :
+5. * Web Application Security :
+6. * What are Application Security Controls :
+7. * What is Application Security Testing :
+8. * What is Mobile Device Management ?
+     + Why Mobile Device Management is Important ?
+     + Mobile Device Management Features :
+     + How Mobile Device Management Works :
+     + VMware Mobile Device Management Tools :
+     + Benefits of VMware Workspace ONE Mobile Device Management :
+
+9. * Mobile Application Security :
+     + Mobile Management Software
+     + Mobile Behavioral Analysis
+     + Encryption
+     + Strong Authentification 
+     + Limited Permissions
+
+10. * Web Application Security :
+      + Penetration Testing 
+      + Web Application Firewall (WAF)
+      + DDoS Protection
+      + Strong Authentication
+      + Encryption
+
+(A) Web Application Security Fundamentals
+(B) Basics of Web Security and Remedies of Cyber Attacks 
+(C) Securing the Web Server and Other Components
+(D) Types of Security Attacks
+(E) Web Security Vulnerabilites
+(F) Web Application Firewall
+(G) Secure Network Firewall
